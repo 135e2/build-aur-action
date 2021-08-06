@@ -11,4 +11,5 @@ with:
 ### `repo-name`
 **Required** The name of the AUR repo to build. Default `"qv2ray-dev-git"`.
 
-# Testing for building linux kernels
+## ~~Testing for building linux kernels~~
+# DISCONTINUED, use [135e2/actions_build_aur](https://github.com/135e2/actions_build_aur) or [zjuyk/pkgbuild-aur@master](https://github.com/zjuyk/pkgbuild-aur) instead.
